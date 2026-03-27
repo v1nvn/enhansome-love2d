@@ -243,7 +243,7 @@
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 951
+            "stars": 952
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2025-12-18T16:25:04Z",
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2017-05-06T08:32:40Z",
             "owner": "rxi",
             "repo": "lovedos",
-            "stars": 697
+            "stars": 698
           }
         },
         {
@@ -2133,7 +2133,7 @@
             "last_commit": "2026-03-25T20:21:00Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2503
+            "stars": 2504
           }
         }
       ],
@@ -2346,7 +2346,7 @@
             "last_commit": "2026-03-19T13:24:26Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1600
+            "stars": 1601
           }
         },
         {
@@ -2617,7 +2617,7 @@
             "last_commit": "2023-12-03T04:30:39Z",
             "owner": "slages",
             "repo": "love-imgui",
-            "stars": 347
+            "stars": 348
           }
         },
         {
@@ -2772,7 +2772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-26T00:52:36Z",
+            "last_commit": "2026-03-27T00:48:47Z",
             "owner": "frank-f-trafton",
             "repo": "prod_ui_wip",
             "stars": 12
@@ -3837,7 +3837,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 2985
+            "stars": 2987
           }
         }
       ],
@@ -3845,7 +3845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:35:45.476Z",
+    "last_updated": "2026-03-27T04:36:21.138Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
