@@ -13,7 +13,7 @@
             "last_commit": "2023-05-25T06:09:10Z",
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2022-10-21T09:02:33Z",
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 647
+            "stars": 646
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-03-31T12:05:24Z",
             "owner": "hazzard993",
             "repo": "love-typescript-definitions",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -2772,7 +2772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-04-01T00:58:40Z",
+            "last_commit": "2026-04-02T01:20:59Z",
             "owner": "frank-f-trafton",
             "repo": "prod_ui_wip",
             "stars": 12
@@ -3367,7 +3367,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-02-02T12:19:23Z",
+                "last_commit": "2026-04-01T12:44:31Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 727
@@ -3392,7 +3392,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-02T12:19:23Z",
+            "last_commit": "2026-04-01T12:44:31Z",
             "owner": "EmmyLua",
             "repo": "VSCode-EmmyLua",
             "stars": 727
@@ -3824,7 +3824,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4489
+            "stars": 4487
           }
         },
         {
@@ -3845,7 +3845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:49:31.155Z",
+    "last_updated": "2026-04-02T04:32:27.824Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
