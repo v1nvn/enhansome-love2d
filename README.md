@@ -1,4 +1,4 @@
-# Awesome Löve [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 453,686 | 🐛 61 | 📅 2026-04-02 with stars
+# Awesome Löve [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 453,984 | 🐛 59 | 📅 2026-04-02 with stars
 
 ![Awesome Löve](logo.png)
 
@@ -137,7 +137,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) ⭐ 507 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Minimalist functional ECS.
 * [Concord](https://github.com/Keyslam-Group/Concord) ⭐ 312 | 🐛 10 | 🌐 Lua | 📅 2026-01-11 - A feature-complete ECS library.
 * [ecs-lua](https://github.com/nidorx/ecs-lua) ⭐ 228 | 🐛 8 | 🌐 Lua | 📅 2024-06-24 - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
-* [evolved.lua](https://github.com/BlackMATov/evolved.lua) ⭐ 200 | 🐛 1 | 🌐 Lua | 📅 2026-04-08 - Evolved ECS (Entity-Component-System) for Lua.
+* [evolved.lua](https://github.com/BlackMATov/evolved.lua) ⭐ 201 | 🐛 1 | 🌐 Lua | 📅 2026-04-08 - Evolved ECS (Entity-Component-System) for Lua.
 * [nata](https://github.com/tesselode/nata) ⭐ 51 | 🐛 1 | 🌐 Lua | 📅 2021-01-20 - Hybrid OOP/ECS entity management.
 * [adorbs](https://github.com/JosephShering/adorbs) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2020-02-25 - Minimal, Functional Entity Component System.
 
@@ -191,9 +191,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Lighting & Shadow Libraries*
 
-* [Light World](https://github.com/tanema/light_world.lua) ⭐ 242 | 🐛 11 | 🌐 Lua | 📅 2025-11-04 - A lighting model.
+* [Light World](https://github.com/tanema/light_world.lua) ⭐ 241 | 🐛 11 | 🌐 Lua | 📅 2025-11-04 - A lighting model.
 * [Shädows](https://github.com/matiasah/shadows) ⭐ 182 | 🐛 2 | 🌐 Lua | 📅 2020-07-08 - A Shadows & Lights engine for LÖVE.
-* [lighter](https://github.com/speakk/lighter) ⭐ 45 | 🐛 1 | 🌐 Lua | 📅 2026-02-08 - A performant dynamic light implementation with a simple API.
+* [lighter](https://github.com/speakk/lighter) ⭐ 46 | 🐛 1 | 🌐 Lua | 📅 2026-02-08 - A performant dynamic light implementation with a simple API.
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) ⭐ 29 | 🐛 0 | 🌐 Lua | 📅 2020-03-24 - A very simple raycasting light implementation.
 * [Light](https://github.com/xiejiangzhi/light) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2019-09-17 - A simple dynamic light implementation.
 * [bitumbra](https://github.com/a13X-B/bitumbra) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2025-01-30 - GPU accelerated many lights 2D shadows.
@@ -274,10 +274,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Ports for Platforms other than the ones officially supported by LÖVE*
 
-* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,512 | 🐛 14 | 🌐 C | 📅 2026-04-09 - LÖVE for virtual reality devices.
+* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,513 | 🐛 14 | 🌐 C | 📅 2026-04-11 - LÖVE for virtual reality devices.
 * [Love.js](https://github.com/Davidobot/love.js) ⭐ 817 | 🐛 69 | 🌐 JavaScript | 📅 2024-05-13 - LÖVE ported to the web using Emscripten.
 * [LoveDos](https://github.com/rxi/lovedos) ⚠️ Archived - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
-* [LÖVE Potion](https://github.com/lovebrew/lovepotion) ⭐ 665 | 🐛 4 | 🌐 C++ | 📅 2026-02-12 - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
+* [LÖVE Potion](https://github.com/lovebrew/lovepotion) ⭐ 664 | 🐛 4 | 🌐 C++ | 📅 2026-02-12 - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) ⚠️ Archived - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
 
@@ -300,7 +300,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *GLSL related Libraries*
 
-* [Moonshine](https://github.com/vrld/moonshine) ⭐ 702 | 🐛 18 | 🌐 Lua | 📅 2023-12-23 - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+* [Moonshine](https://github.com/vrld/moonshine) ⭐ 703 | 🐛 18 | 🌐 Lua | 📅 2023-12-23 - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) ⭐ 96 | 🐛 2 | 🌐 C++ | 📅 2016-06-25 - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) ⭐ 61 | 🐛 1 | 🌐 Lua | 📅 2024-10-05 - Simple color grading library.
 * [ShaderScan](https://github.com/idbrii/love-shaderscan) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2023-09-08 - Adds hot reload, includes, and better error messages for faster shader iteration.
@@ -456,7 +456,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Tools and templates for distributing LÖVE games*
 
-* [AppImageKit](https://github.com/AppImage/AppImageKit) ⭐ 9,306 | 🐛 235 | 🌐 C | 📅 2025-06-09 - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
+* [AppImageKit](https://github.com/AppImage/AppImageKit) ⭐ 9,307 | 🐛 235 | 🌐 C | 📅 2025-06-09 - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
 * [love-release](https://github.com/MisterDA/love-release) ⚠️ Archived - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [makelove](https://github.com/pfirsich/makelove) ⭐ 196 | 🐛 24 | 🌐 Python | 📅 2024-06-08 - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 * [LÖVE Game Development & Automated Build System](https://github.com/Oval-Tutu/bootstrap-love2d-project) ⭐ 171 | 🐛 12 | 🌐 Lua | 📅 2025-12-15 - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
@@ -477,4 +477,4 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) ⭐ 2,990 | 🐛 0 | 📅 2026-02-18 - A curated list of PICO-8 resources, tutorials, tools and more.
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) ⭐ 94 | 🐛 3 | 🌐 GLSL | 📅 2015-10-13 - A collection of shaders designed to work in LÖVE.
 
-Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,344 | 🐛 50 | 🌐 Ruby | 📅 2024-06-02 list.
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,349 | 🐛 50 | 🌐 Ruby | 📅 2024-06-02 list.
