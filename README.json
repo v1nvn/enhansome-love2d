@@ -122,7 +122,7 @@
             "last_commit": "2025-08-26T09:15:20Z",
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 277
+            "stars": 281
           }
         }
       ],
@@ -747,7 +747,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 636
+            "stars": 638
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-04-08T16:58:30Z",
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 205
+            "stars": 207
           }
         },
         {
@@ -1084,7 +1084,7 @@
             "last_commit": "2025-12-18T16:25:04Z",
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -1185,7 +1185,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-05T00:12:01Z",
+            "last_commit": "2026-05-09T00:01:24Z",
             "owner": "PrismRL",
             "repo": "prism",
             "stars": 113
@@ -1910,7 +1910,7 @@
             "last_commit": "2025-11-03T12:54:01Z",
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1906
+            "stars": 1907
           }
         },
         {
@@ -2086,10 +2086,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-05T23:07:00Z",
+            "last_commit": "2026-05-08T21:57:53Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 670
+            "stars": 671
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2024-05-13T13:55:06Z",
             "owner": "Davidobot",
             "repo": "love.js",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -2143,10 +2143,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-08T04:32:34Z",
+            "last_commit": "2026-05-08T22:45:46Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2533
+            "stars": 2534
           }
         }
       ],
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9326
+            "stars": 9327
           }
         },
         {
@@ -3850,7 +3850,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3010
+            "stars": 3011
           }
         }
       ],
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:55:18.746Z",
+    "last_updated": "2026-05-09T05:24:00.094Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
