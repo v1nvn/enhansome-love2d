@@ -883,7 +883,7 @@
             "last_commit": "2026-01-11T21:14:26Z",
             "owner": "Keyslam-Group",
             "repo": "Concord",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-02-11T00:25:33Z",
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 344
+            "stars": 343
           }
         },
         {
@@ -1711,7 +1711,7 @@
             "last_commit": "2023-03-22T20:04:17Z",
             "owner": "tesselode",
             "repo": "ripple",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -1866,7 +1866,7 @@
             "last_commit": "2021-12-31T14:37:20Z",
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1040
+            "stars": 1043
           }
         },
         {
@@ -1910,7 +1910,7 @@
             "last_commit": "2025-11-03T12:54:01Z",
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1908
+            "stars": 1909
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2024-05-13T13:55:06Z",
             "owner": "Davidobot",
             "repo": "love.js",
-            "stars": 820
+            "stars": 821
           }
         },
         {
@@ -2143,10 +2143,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-11T00:32:10Z",
+            "last_commit": "2026-05-12T00:13:31Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2534
+            "stars": 2535
           }
         }
       ],
@@ -2497,7 +2497,7 @@
             "last_commit": "2023-02-02T00:13:15Z",
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 664
+            "stars": 663
           }
         }
       ],
@@ -3129,7 +3129,7 @@
             "last_commit": "2026-04-09T06:32:43Z",
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -3380,7 +3380,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-11T05:52:37Z",
+                "last_commit": "2026-05-11T06:24:00Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 733
@@ -3405,7 +3405,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T05:52:37Z",
+            "last_commit": "2026-05-11T06:24:00Z",
             "owner": "EmmyLua",
             "repo": "VSCode-EmmyLua",
             "stars": 733
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9326
+            "stars": 9328
           }
         },
         {
@@ -3779,7 +3779,7 @@
             "last_commit": "2026-04-29T12:10:41Z",
             "owner": "Wolfyxon",
             "repo": "lover",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -3805,7 +3805,7 @@
             "last_commit": "2026-04-27T12:17:15Z",
             "owner": "pfirsich",
             "repo": "makelove",
-            "stars": 201
+            "stars": 202
           }
         }
       ],
@@ -3837,7 +3837,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4498
+            "stars": 4499
           }
         },
         {
@@ -3850,7 +3850,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3012
+            "stars": 3011
           }
         }
       ],
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T06:01:09.889Z",
+    "last_updated": "2026-05-12T05:40:39.819Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
