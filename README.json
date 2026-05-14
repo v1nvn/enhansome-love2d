@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 795
+            "stars": 796
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-03-31T12:05:24Z",
             "owner": "hazzard993",
             "repo": "love-typescript-definitions",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2020-11-28T07:49:03Z",
             "owner": "tesselode",
             "repo": "cartographer",
-            "stars": 77
+            "stars": 76
           }
         },
         {
@@ -1201,7 +1201,7 @@
             "last_commit": "2020-05-20T06:54:21Z",
             "owner": "josefnpat",
             "repo": "reflowprint",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2022-04-03T17:17:23Z",
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 285
+            "stars": 286
           }
         },
         {
@@ -1279,7 +1279,7 @@
             "last_commit": "2016-04-30T19:41:00Z",
             "owner": "Ulydev",
             "repo": "shack",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -1601,7 +1601,7 @@
             "last_commit": "2024-01-04T04:56:51Z",
             "owner": "davisdude",
             "repo": "mlib",
-            "stars": 91
+            "stars": 90
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-05-12T22:25:08Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -2544,10 +2544,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-04-14T18:54:58Z",
+            "last_commit": "2026-05-13T16:20:10Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -2604,7 +2604,7 @@
             "last_commit": "2024-04-22T12:39:54Z",
             "owner": "nekromoff",
             "repo": "layouter",
-            "stars": 20
+            "stars": 19
           }
         },
         {
@@ -3380,10 +3380,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-11T06:24:00Z",
+                "last_commit": "2026-05-14T03:13:42Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 733
+                "stars": 734
               }
             },
             {
@@ -3405,10 +3405,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T06:24:00Z",
+            "last_commit": "2026-05-14T03:13:42Z",
             "owner": "EmmyLua",
             "repo": "VSCode-EmmyLua",
-            "stars": 733
+            "stars": 734
           }
         },
         {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9327
+            "stars": 9328
           }
         },
         {
@@ -3837,7 +3837,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4502
+            "stars": 4503
           }
         },
         {
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:51:31.273Z",
+    "last_updated": "2026-05-14T05:50:47.673Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
