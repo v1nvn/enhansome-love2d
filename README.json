@@ -13,7 +13,7 @@
             "last_commit": "2023-05-25T06:09:10Z",
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 798
+            "stars": 799
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2021-07-25T21:38:03Z",
             "owner": "wesleywerner",
             "repo": "lua-star",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 963
+            "stars": 964
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-02-17T11:10:18Z",
             "owner": "Nikaoto",
             "repo": "deep",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2026-01-11T21:14:26Z",
             "owner": "Keyslam-Group",
             "repo": "Concord",
-            "stars": 315
+            "stars": 316
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-04-08T16:58:30Z",
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 207
+            "stars": 209
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2024-05-09T09:12:43Z",
             "owner": "astrochili",
             "repo": "narrator",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -1884,7 +1884,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -2026,7 +2026,7 @@
             "last_commit": "2023-09-29T16:28:50Z",
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2024-05-13T13:55:06Z",
             "owner": "Davidobot",
             "repo": "love.js",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -2143,10 +2143,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-17T00:28:42Z",
+            "last_commit": "2026-05-17T21:31:45Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2536
+            "stars": 2535
           }
         }
       ],
@@ -2217,7 +2217,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -2314,7 +2314,7 @@
             "last_commit": "2023-12-23T00:39:23Z",
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -2359,7 +2359,7 @@
             "last_commit": "2026-03-19T13:24:26Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1612
+            "stars": 1614
           }
         },
         {
@@ -2372,7 +2372,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -2458,7 +2458,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -2630,7 +2630,7 @@
             "last_commit": "2023-12-03T04:30:39Z",
             "owner": "slages",
             "repo": "love-imgui",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -2643,7 +2643,7 @@
             "last_commit": "2025-02-14T21:55:38Z",
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 387
+            "stars": 388
           }
         },
         {
@@ -2814,7 +2814,7 @@
             "last_commit": "2026-03-23T14:10:21Z",
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -3383,7 +3383,7 @@
                 "last_commit": "2026-05-14T03:13:42Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 735
+                "stars": 736
               }
             },
             {
@@ -3408,7 +3408,7 @@
             "last_commit": "2026-05-14T03:13:42Z",
             "owner": "EmmyLua",
             "repo": "VSCode-EmmyLua",
-            "stars": 735
+            "stars": 736
           }
         },
         {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9327
+            "stars": 9329
           }
         },
         {
@@ -3675,7 +3675,7 @@
             "last_commit": "2025-12-15T00:11:35Z",
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 171
+            "stars": 172
           }
         },
         {
@@ -3850,7 +3850,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3012
+            "stars": 3013
           }
         }
       ],
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:51:25.195Z",
+    "last_updated": "2026-05-18T06:17:21.508Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
