@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 799
+            "stars": 800
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 638
+            "stars": 639
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1222
+            "stars": 1221
           }
         },
         {
@@ -1185,7 +1185,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-10T12:50:31Z",
+            "last_commit": "2026-05-18T17:59:30Z",
             "owner": "PrismRL",
             "repo": "prism",
             "stars": 113
@@ -1253,7 +1253,7 @@
             "last_commit": "2025-01-13T15:30:36Z",
             "owner": "paltze",
             "repo": "scenery",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -1337,7 +1337,7 @@
             "last_commit": "2022-11-18T15:57:22Z",
             "owner": "tesselode",
             "repo": "baton",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -1866,7 +1866,7 @@
             "last_commit": "2021-12-31T14:37:20Z",
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1045
+            "stars": 1047
           }
         },
         {
@@ -1910,7 +1910,7 @@
             "last_commit": "2025-11-03T12:54:01Z",
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1910
+            "stars": 1911
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-05-12T22:25:08Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -2146,7 +2146,7 @@
             "last_commit": "2026-05-17T21:31:45Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2535
+            "stars": 2536
           }
         }
       ],
@@ -2544,7 +2544,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-13T16:20:10Z",
+            "last_commit": "2026-05-18T17:07:21Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
             "stars": 28
@@ -3051,7 +3051,7 @@
             "last_commit": "2025-03-25T13:54:01Z",
             "owner": "kikito",
             "repo": "love-loader",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9329
+            "stars": 9331
           }
         },
         {
@@ -3837,7 +3837,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4504
+            "stars": 4505
           }
         },
         {
@@ -3850,7 +3850,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3013
+            "stars": 3014
           }
         }
       ],
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:17:21.508Z",
+    "last_updated": "2026-05-19T06:11:00.777Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
