@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 800
+            "stars": 801
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 639
+            "stars": 640
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1221
+            "stars": 1222
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2024-05-13T13:55:06Z",
             "owner": "Davidobot",
             "repo": "love.js",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -2146,7 +2146,7 @@
             "last_commit": "2026-05-17T21:31:45Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2536
+            "stars": 2539
           }
         }
       ],
@@ -2314,7 +2314,7 @@
             "last_commit": "2023-12-23T00:39:23Z",
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 707
+            "stars": 708
           }
         },
         {
@@ -2547,7 +2547,7 @@
             "last_commit": "2026-05-18T17:07:21Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -3129,7 +3129,7 @@
             "last_commit": "2026-04-09T06:32:43Z",
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -3550,7 +3550,7 @@
                 "last_commit": "2019-07-08T11:00:18Z",
                 "owner": "FireZenk",
                 "repo": "language-lua",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9331
+            "stars": 9333
           }
         },
         {
@@ -3837,7 +3837,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4505
+            "stars": 4507
           }
         },
         {
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:11:00.777Z",
+    "last_updated": "2026-05-20T06:11:24.871Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
