@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 801
+            "stars": 802
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 640
+            "stars": 641
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2026-01-11T21:14:26Z",
             "owner": "Keyslam-Group",
             "repo": "Concord",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2023-03-15T01:27:58Z",
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 781
+            "stars": 782
           }
         }
       ],
@@ -1149,7 +1149,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1222
+            "stars": 1223
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-02-11T00:25:33Z",
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 342
+            "stars": 343
           }
         },
         {
@@ -1627,7 +1627,7 @@
             "last_commit": "2025-04-13T01:13:04Z",
             "owner": "dknight",
             "repo": "polysec",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -1666,7 +1666,7 @@
             "last_commit": "2026-03-12T18:25:59Z",
             "owner": "DUznanski",
             "repo": "vornmath",
-            "stars": 20
+            "stars": 22
           }
         }
       ],
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-05-12T22:25:08Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 673
+            "stars": 674
           }
         },
         {
@@ -2143,10 +2143,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-17T21:31:45Z",
+            "last_commit": "2026-05-20T13:59:00Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2539
+            "stars": 2540
           }
         }
       ],
@@ -2359,7 +2359,7 @@
             "last_commit": "2026-03-19T13:24:26Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1614
+            "stars": 1615
           }
         },
         {
@@ -2544,7 +2544,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-18T17:07:21Z",
+            "last_commit": "2026-05-21T00:38:46Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
             "stars": 29
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9333
+            "stars": 9332
           }
         },
         {
@@ -3657,7 +3657,7 @@
             "last_commit": "2026-04-02T15:39:55Z",
             "owner": "camchenry",
             "repo": "boon",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -3675,7 +3675,7 @@
             "last_commit": "2025-12-15T00:11:35Z",
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -3837,7 +3837,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4507
+            "stars": 4508
           }
         },
         {
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:11:24.871Z",
+    "last_updated": "2026-05-21T06:13:36.538Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
