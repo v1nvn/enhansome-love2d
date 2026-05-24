@@ -747,7 +747,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 642
+            "stars": 644
           }
         },
         {
@@ -980,7 +980,7 @@
             "last_commit": "2026-05-01T02:13:28Z",
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 426
+            "stars": 427
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-02-11T00:25:33Z",
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -1663,7 +1663,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-12T18:25:59Z",
+            "last_commit": "2026-05-23T23:04:20Z",
             "owner": "DUznanski",
             "repo": "vornmath",
             "stars": 22
@@ -1821,7 +1821,7 @@
             "last_commit": "2024-07-16T11:19:58Z",
             "owner": "Overtorment",
             "repo": "NoobHub",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -2115,7 +2115,7 @@
             "last_commit": "2024-05-13T13:55:06Z",
             "owner": "Davidobot",
             "repo": "love.js",
-            "stars": 820
+            "stars": 821
           }
         },
         {
@@ -2143,10 +2143,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-22T18:55:11Z",
+            "last_commit": "2026-05-24T03:15:46Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2539
+            "stars": 2541
           }
         }
       ],
@@ -2643,7 +2643,7 @@
             "last_commit": "2025-02-14T21:55:38Z",
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 388
+            "stars": 389
           }
         },
         {
@@ -2713,7 +2713,7 @@
             "last_commit": "2026-03-01T10:16:44Z",
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -2840,7 +2840,7 @@
             "last_commit": "2023-08-26T22:45:07Z",
             "owner": "vrld",
             "repo": "suit",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -3383,7 +3383,7 @@
                 "last_commit": "2026-05-14T03:13:42Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 736
+                "stars": 737
               }
             },
             {
@@ -3408,7 +3408,7 @@
             "last_commit": "2026-05-14T03:13:42Z",
             "owner": "EmmyLua",
             "repo": "VSCode-EmmyLua",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9336
+            "stars": 9339
           }
         },
         {
@@ -3837,7 +3837,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4509
+            "stars": 4510
           }
         },
         {
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:41:55.214Z",
+    "last_updated": "2026-05-24T06:04:17.850Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
