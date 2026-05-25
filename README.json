@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 802
+            "stars": 803
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-04-08T16:58:30Z",
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2024-05-09T09:12:43Z",
             "owner": "astrochili",
             "repo": "narrator",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -1188,7 +1188,7 @@
             "last_commit": "2026-05-18T17:59:30Z",
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -2497,7 +2497,7 @@
             "last_commit": "2023-02-02T00:13:15Z",
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 663
+            "stars": 665
           }
         }
       ],
@@ -2700,7 +2700,7 @@
             "last_commit": "2025-11-21T15:26:02Z",
             "owner": "immortalx74",
             "repo": "lovr-ui2d",
-            "stars": 78
+            "stars": 77
           }
         },
         {
@@ -2814,7 +2814,7 @@
             "last_commit": "2026-03-23T14:10:21Z",
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9339
+            "stars": 9342
           }
         },
         {
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T06:04:17.850Z",
+    "last_updated": "2026-05-25T06:38:19.591Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
