@@ -977,7 +977,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-01T02:13:28Z",
+            "last_commit": "2026-05-26T06:01:27Z",
             "owner": "1bardesign",
             "repo": "batteries",
             "stars": 427
@@ -1084,7 +1084,7 @@
             "last_commit": "2025-12-18T16:25:04Z",
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -1853,7 +1853,7 @@
             "last_commit": "2021-05-08T02:47:43Z",
             "owner": "Yonaba",
             "repo": "30log",
-            "stars": 484
+            "stars": 485
           }
         },
         {
@@ -2026,7 +2026,7 @@
             "last_commit": "2023-09-29T16:28:50Z",
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1078
+            "stars": 1079
           }
         },
         {
@@ -2057,7 +2057,7 @@
             "last_commit": "2026-04-08T17:54:35Z",
             "owner": "erinmaus",
             "repo": "slick",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -2089,7 +2089,7 @@
             "last_commit": "2026-05-12T22:25:08Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -2146,7 +2146,7 @@
             "last_commit": "2026-05-24T03:15:46Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2541
+            "stars": 2543
           }
         }
       ],
@@ -2440,7 +2440,7 @@
             "last_commit": "2020-12-16T13:21:47Z",
             "owner": "rxi",
             "repo": "flux",
-            "stars": 475
+            "stars": 476
           }
         },
         {
@@ -2484,7 +2484,7 @@
             "last_commit": "2015-03-11T20:46:36Z",
             "owner": "rxi",
             "repo": "tick",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -2516,7 +2516,7 @@
             "last_commit": "2024-10-04T15:01:24Z",
             "owner": "Nabeel20",
             "repo": "Badr",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -2547,7 +2547,7 @@
             "last_commit": "2026-05-22T18:35:42Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -2656,7 +2656,7 @@
             "last_commit": "2025-10-22T11:40:19Z",
             "owner": "linux-man",
             "repo": "LoveFrames",
-            "stars": 153
+            "stars": 156
           }
         },
         {
@@ -2669,7 +2669,7 @@
             "last_commit": "2026-04-12T13:23:33Z",
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -2814,7 +2814,7 @@
             "last_commit": "2026-03-23T14:10:21Z",
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 380
+            "stars": 382
           }
         },
         {
@@ -3038,7 +3038,7 @@
             "last_commit": "2023-08-23T03:10:40Z",
             "owner": "rxi",
             "repo": "log.lua",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -3168,7 +3168,7 @@
             "last_commit": "2024-05-02T19:30:07Z",
             "owner": "EngineerSmith",
             "repo": "nativefs",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -3383,7 +3383,7 @@
                 "last_commit": "2026-05-14T03:13:42Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 737
+                "stars": 739
               }
             },
             {
@@ -3408,7 +3408,7 @@
             "last_commit": "2026-05-14T03:13:42Z",
             "owner": "EmmyLua",
             "repo": "VSCode-EmmyLua",
-            "stars": 737
+            "stars": 739
           }
         },
         {
@@ -3644,7 +3644,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9342
+            "stars": 9346
           }
         },
         {
@@ -3675,7 +3675,7 @@
             "last_commit": "2025-12-15T00:11:35Z",
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -3688,7 +3688,7 @@
             "last_commit": "2025-05-30T10:19:28Z",
             "owner": "ellraiser",
             "repo": "love-build",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -3805,7 +3805,7 @@
             "last_commit": "2026-04-27T12:17:15Z",
             "owner": "pfirsich",
             "repo": "makelove",
-            "stars": 202
+            "stars": 203
           }
         }
       ],
@@ -3858,7 +3858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T06:38:19.591Z",
+    "last_updated": "2026-05-26T06:09:54.307Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
