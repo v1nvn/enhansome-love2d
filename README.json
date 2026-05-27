@@ -256,7 +256,7 @@
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 965
+            "stars": 966
           }
         },
         {
@@ -469,6 +469,19 @@
             "owner": "Mechazawa",
             "repo": "Love-Debug-Graph",
             "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "Extensible Development Toolkit for LÖVE. Step by step debugger, hot reloading, remote log inspection, easy android and ios development builds, assisted release and upload, shader graph, particle system playground, and more!",
+          "title": "feather",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T04:18:46Z",
+            "owner": "Kyonru",
+            "repo": "feather",
+            "stars": 32
           }
         },
         {
@@ -1084,7 +1097,7 @@
             "last_commit": "2025-12-18T16:25:04Z",
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -1188,7 +1201,7 @@
             "last_commit": "2026-05-18T17:59:30Z",
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 114
+            "stars": 116
           }
         },
         {
@@ -1305,7 +1318,7 @@
             "last_commit": "2024-03-24T11:43:23Z",
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1047
+            "stars": 1048
           }
         },
         {
@@ -1866,7 +1879,7 @@
             "last_commit": "2021-12-31T14:37:20Z",
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1047
+            "stars": 1046
           }
         },
         {
@@ -2108,15 +2121,7 @@
         {
           "children": [],
           "description": "LÖVE ported to the web using Emscripten.",
-          "title": "Love.js",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-13T13:55:06Z",
-            "owner": "Davidobot",
-            "repo": "love.js",
-            "stars": 821
-          }
+          "title": "lovejs-player"
         },
         {
           "children": [],
@@ -2146,8 +2151,13 @@
             "last_commit": "2026-05-24T03:15:46Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2543
+            "stars": 2544
           }
+        },
+        {
+          "children": [],
+          "description": "Portable game engine implementing a subset of the LÖVE API for retro games, runnable through RetroArch on many platforms.",
+          "title": "Lutro"
         }
       ],
       "title": "Platforms"
@@ -2701,6 +2711,19 @@
             "owner": "immortalx74",
             "repo": "lovr-ui2d",
             "stars": 77
+          }
+        },
+        {
+          "children": [],
+          "description": "LuaJIT bindings for Dear ImGui with a LÖVE module; supports all cimgui widgets using cpp names for easy example copying.",
+          "title": "LuaJIT-ImGui",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-22T09:17:21Z",
+            "owner": "sonoro1234",
+            "repo": "LuaJIT-ImGui",
+            "stars": 293
           }
         },
         {
@@ -3644,7 +3667,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9346
+            "stars": 9344
           }
         },
         {
@@ -3662,7 +3685,7 @@
         },
         {
           "children": [],
-          "description": "Build & deploy cross-platform game packages on  popular platforms. Supports Android, iOS, Linux, maxOS, Windows.",
+          "description": "Build & deploy cross-platform game packages on  popular platforms. Supports Android, iOS, Linux, macOS, Windows.",
           "title": "LÖVE Actions"
         },
         {
@@ -3837,7 +3860,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4510
+            "stars": 4511
           }
         },
         {
@@ -3850,7 +3873,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3015
+            "stars": 3016
           }
         }
       ],
@@ -3858,7 +3881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:09:54.307Z",
+    "last_updated": "2026-05-27T06:23:37.820Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
