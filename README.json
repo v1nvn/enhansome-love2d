@@ -122,7 +122,7 @@
             "last_commit": "2025-08-26T09:15:20Z",
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 282
+            "stars": 283
           }
         }
       ],
@@ -180,7 +180,7 @@
             "last_commit": "2022-10-21T09:02:33Z",
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 646
+            "stars": 645
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2021-05-08T07:48:32Z",
             "owner": "rxi",
             "repo": "lovebird",
-            "stars": 333
+            "stars": 334
           }
         },
         {
@@ -598,7 +598,7 @@
             "last_commit": "2023-07-22T23:29:56Z",
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2024-10-30T20:35:23Z",
             "owner": "deltadaedalus",
             "repo": "vudu",
-            "stars": 49
+            "stars": 48
           }
         }
       ],
@@ -721,7 +721,7 @@
             "last_commit": "2022-03-20T21:03:24Z",
             "owner": "ReFreezed",
             "repo": "HotParticles",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -760,7 +760,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 645
+            "stars": 646
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2023-03-15T01:27:58Z",
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 782
+            "stars": 781
           }
         }
       ],
@@ -1879,7 +1879,7 @@
             "last_commit": "2021-12-31T14:37:20Z",
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1046
+            "stars": 1048
           }
         },
         {
@@ -1923,7 +1923,7 @@
             "last_commit": "2025-11-03T12:54:01Z",
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1911
+            "stars": 1910
           }
         },
         {
@@ -2039,7 +2039,7 @@
             "last_commit": "2023-09-29T16:28:50Z",
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -2148,10 +2148,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-24T03:15:46Z",
+            "last_commit": "2026-05-28T01:52:58Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2544
+            "stars": 2545
           }
         },
         {
@@ -2324,7 +2324,7 @@
             "last_commit": "2023-12-23T00:39:23Z",
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -2507,7 +2507,7 @@
             "last_commit": "2023-02-02T00:13:15Z",
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 665
+            "stars": 666
           }
         }
       ],
@@ -2720,7 +2720,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-22T09:17:21Z",
+            "last_commit": "2026-05-27T17:38:45Z",
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
             "stars": 293
@@ -3667,7 +3667,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9344
+            "stars": 9345
           }
         },
         {
@@ -3860,7 +3860,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4511
+            "stars": 4510
           }
         },
         {
@@ -3881,7 +3881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:23:37.820Z",
+    "last_updated": "2026-05-28T06:15:25.232Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
