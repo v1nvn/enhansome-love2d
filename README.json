@@ -65,7 +65,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 803
+            "stars": 804
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2025-08-26T09:15:20Z",
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 283
+            "stars": 284
           }
         }
       ],
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-27T04:18:46Z",
+            "last_commit": "2026-05-29T04:57:34Z",
             "owner": "Kyonru",
             "repo": "feather",
             "stars": 32
@@ -1097,7 +1097,7 @@
             "last_commit": "2025-12-18T16:25:04Z",
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -1201,7 +1201,7 @@
             "last_commit": "2026-05-18T17:59:30Z",
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -2102,7 +2102,7 @@
             "last_commit": "2026-05-12T22:25:08Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -2369,7 +2369,7 @@
             "last_commit": "2026-03-19T13:24:26Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1614
+            "stars": 1615
           }
         },
         {
@@ -2653,7 +2653,7 @@
             "last_commit": "2025-02-14T21:55:38Z",
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -3667,7 +3667,7 @@
             "last_commit": "2025-06-09T05:35:59Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9345
+            "stars": 9346
           }
         },
         {
@@ -3873,7 +3873,7 @@
             "last_commit": "2026-02-18T12:35:47Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3016
+            "stars": 3017
           }
         }
       ],
@@ -3881,7 +3881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:15:25.232Z",
+    "last_updated": "2026-05-29T06:17:02.680Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
