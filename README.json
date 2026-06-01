@@ -13,7 +13,7 @@
             "last_commit": "2023-05-25T06:09:10Z",
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 478
+            "stars": 479
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 968
+            "stars": 969
           }
         },
         {
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-31T05:13:49Z",
+            "last_commit": "2026-05-31T16:02:20Z",
             "owner": "Kyonru",
             "repo": "feather",
             "stars": 32
@@ -760,7 +760,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -935,7 +935,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -1084,7 +1084,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -1318,7 +1318,7 @@
             "last_commit": "2024-03-24T11:43:23Z",
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1049
+            "stars": 1050
           }
         },
         {
@@ -1769,7 +1769,7 @@
             "last_commit": "2025-06-19T18:50:48Z",
             "owner": "elloramir",
             "repo": "fetch-lua",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -1834,7 +1834,7 @@
             "last_commit": "2024-07-16T11:19:58Z",
             "owner": "Overtorment",
             "repo": "NoobHub",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -1897,7 +1897,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -2099,7 +2099,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-12T22:25:08Z",
+            "last_commit": "2026-05-31T15:16:11Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
             "stars": 678
@@ -2133,7 +2133,7 @@
             "last_commit": "2017-05-06T08:32:40Z",
             "owner": "rxi",
             "repo": "lovedos",
-            "stars": 701
+            "stars": 702
           }
         },
         {
@@ -2148,7 +2148,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-28T01:52:58Z",
+            "last_commit": "2026-05-31T23:11:49Z",
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2546
@@ -2227,7 +2227,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -2382,7 +2382,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -2468,7 +2468,7 @@
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -3626,7 +3626,7 @@
                 "last_commit": "2026-05-06T17:37:26Z",
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -3825,10 +3825,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-27T12:17:15Z",
+            "last_commit": "2026-06-01T06:14:55Z",
             "owner": "pfirsich",
             "repo": "makelove",
-            "stars": 203
+            "stars": 204
           }
         }
       ],
@@ -3860,7 +3860,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4510
+            "stars": 4508
           }
         },
         {
@@ -3881,7 +3881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:21:47.296Z",
+    "last_updated": "2026-06-01T07:00:47.409Z",
     "original_repository": "love2d-community/awesome-love2d",
     "source_repository": "v1nvn/enhansome-love2d",
     "source_repository_description": null,
